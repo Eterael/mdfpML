@@ -1,0 +1,306 @@
+Enzyme Name,PDB ID,Chain ID,Mutated Site,Original Residue,Residue Position,New Residue
+haloalkane dehalogenase,1MJ5,A,mutant L177A,L,177,A
+"glucan 1,4-alpha-glucosidase",2D73,A,mutant E194A,E,194,A
+"glucan 1,4-alpha-glucosidase",2D73,A,mutant E532A,E,532,A
+fructose-bisphosphatase,3IFA,A,mutant K20E,K,20,E
+phosphonoacetaldehyde hydrolase,1SWW,A,mutant C22A,C,22,A
+phosphonoacetaldehyde hydrolase,1SWW,A,mutant H56A,H,56,A
+phosphonoacetaldehyde hydrolase,1SWW,A,mutant Y128F,Y,128,F
+phosphonoacetaldehyde hydrolase,1SWW,A,mutant M49L,M,49,L
+phosphonoacetaldehyde hydrolase,1SWW,A,mutant G50A,G,50,A
+phosphonoacetaldehyde hydrolase,1SWW,A,mutant H56Q,H,56,Q
+citrate synthase (unknown stereospecificity),1A59,A,mutant A361R,A,361,R
+citrate synthase (unknown stereospecificity),1A59,A,mutant A10E,A,10,E
+2-methylcitrate synthase,1A59,A,mutant A361R,A,361,R
+"3',5'-cyclic-GMP phosphodiesterase",3DYN,A,mutant Q453E,Q,453,E
+"3',5'-cyclic-GMP phosphodiesterase",3DYN,A,mutant E406A,E,406,A
+alkaline phosphatase,3TG0,A,mutant D369N,D,369,N
+alkaline phosphatase,3TG0,A,mutant D434E,D,434,E
+alkaline phosphatase,3TG0,A,mutant E322K,E,322,K
+alkaline phosphatase,3TG0,A,mutant E341K,E,341,K
+alkaline phosphatase,3TG0,A,mutant H412Y,H,412,Y
+alkaline phosphatase,3TG0,A,mutant S105L,S,105,L
+alkaline phosphatase,3TG0,A,mutant T155M,T,155,M
+alkaline phosphatase,3TG0,A,mutant D153N,D,153,N
+fructose-bisphosphatase,1EYK,A,mutant D187A,D,187,A
+fructose-bisphosphatase,1EYK,A,mutant E192Q,E,192,Q
+fructose-bisphosphatase,1EYK,A,mutant E192A,E,192,A
+fructose-bisphosphatase,1EYK,A,mutant R22A,R,22,A
+fructose-bisphosphatase,1EYK,A,mutant R243A,R,243,A
+fructose-bisphosphatase,1FBH,A,mutant A54L,A,54,L
+beta-galactosidase,1DP0,A,mutant H540F,H,540,F
+beta-galactosidase,1JYV,A,mutant E461D,E,461,D
+beta-galactosidase,1JYW,A,mutant E461D,E,461,D
+beta-galactosidase,1JYV,A,mutant W999F,W,999,F
+beta-galactosidase,1JYW,A,mutant W999F,W,999,F
+beta-galactosidase,1JYV,A,mutant H391E,H,391,E
+beta-galactosidase,1JYW,A,mutant H391E,H,391,E
+beta-galactosidase,1JYW,A,mutant H357D,H,357,D
+beta-galactosidase,1JYV,A,mutant E461K,E,461,K
+beta-galactosidase,1DP0,A,mutant H357N,H,357,N
+subtilisin,2ST1,A,mutant M222C,M,222,C
+subtilisin,2ST1,A,mutant N155L,N,155,L
+signal peptidase I,1B12,A,mutant R77A,R,77,A
+signal peptidase I,1B12,A,mutant R127A,R,127,A
+signal peptidase I,1B12,A,mutant R198A,R,198,A
+signal peptidase I,1B12,A,mutant R199A,R,199,A
+signal peptidase I,1B12,A,mutant R222A,R,222,A
+signal peptidase I,1B12,A,mutant R226A,R,226,A
+signal peptidase I,1B12,A,mutant R236A,R,236,A
+signal peptidase I,1B12,A,mutant R275A,R,275,A
+signal peptidase I,1B12,A,mutant R282A,R,282,A
+signal peptidase I,1B12,A,mutant R295A,R,295,A
+signal peptidase I,1B12,A,mutant R315A,R,315,A
+signal peptidase I,1B12,A,mutant R318A,R,318,A
+beta-lactamase,2BLS,A,mutant T316V,T,316,V
+exo-alpha-sialidase,1B9V,A,mutant E117G,E,117,G
+exo-alpha-sialidase,1B9V,A,mutant D149E,D,149,E
+exo-alpha-sialidase,1B9V,A,mutant R150K,R,150,K
+exo-alpha-sialidase,1B9V,A,mutant R223K,R,223,K
+exo-alpha-sialidase,1B9V,A,mutant E275D,E,275,D
+exo-alpha-sialidase,1B9V,A,mutant R374N,R,374,N
+beta-lactamase,1BC2,A,mutant D90E,D,90,E
+beta-lactamase,1BC2,A,mutant H86S,H,86,S
+beta-lactamase,1BC2,A,mutant H88S,H,88,S
+beta-lactamase,1BC2,A,mutant H149S,H,149,S
+beta-lactamase,1BC2,A,mutant C168S,C,168,S
+beta-lactamase,1BC2,A,mutant H210S,H,210,S
+alpha-amylase,1HNY,A,mutant N298S,N,298,S
+beta-lactamase,1XX2,A,mutant Y221G,Y,221,G
+beta-lactamase,1XX2,A,mutant N346A,N,346,A
+beta-lactamase,1XX2,A,mutant N346I,N,346,I
+beta-lactamase,1XX2,A,mutant L293C,L,293,C
+penicillin amidase,1PNK,B,mutant F24A,F,24,A
+penicillin amidase,1PNK,B,mutant F57A,F,57,A
+penicillin amidase,1PNK,A,mutant F146Y,F,146,Y
+penicillin amidase,1GM7,A,mutant F146Y,F,146,Y
+arginase,1RLA,A,mutant D232A,D,232,A
+arginase,1RLA,A,mutant D128E,D,128,E
+arginase,1RLA,A,mutant D234E,D,234,E
+arginase,1RLA,A,mutant H101E,H,101,E
+arginase,1RLA,A,mutant G235A,G,235,A
+arginase,1RLA,A,mutant H141N,H,141,N
+fructose-bisphosphatase,1FTA,A,mutant E20K,E,20,K
+aryldialkylphosphatase,1HZY,A,mutant H55N,H,55,N
+aryldialkylphosphatase,1HZY,A,mutant H57N,H,57,N
+aryldialkylphosphatase,1HZY,A,mutant H123N,H,123,N
+aryldialkylphosphatase,1HZY,A,mutant H201N,H,201,N
+aryldialkylphosphatase,1HZY,A,mutant H230N,H,230,N
+aryldialkylphosphatase,1HZY,A,mutant H254N,H,254,N
+aryldialkylphosphatase,1HZY,A,mutant H257N,H,257,N
+methionine adenosyltransferase,1FUG,A,mutant K265A,K,265,A
+methionine adenosyltransferase,1FUG,A,mutant K269M,K,269,M
+methionine adenosyltransferase,1FUG,B,mutant H14N,H,14,N
+methionine adenosyltransferase,1FUG,B,mutant K165M,K,165,M
+beta-lactamase,2G2U,A,mutant G238S,G,238,S
+beta-lactamase,2G2U,A,mutant D104K,D,104,K
+methionyl aminopeptidase,1MAT,A,mutant H178A,H,178,A
+pectinesterase,1QJV,A,mutant Q153A,Q,153,A
+pectinesterase,1QJV,A,mutant Q177A,Q,177,A
+pectinesterase,1QJV,A,mutant V198A,V,198,A
+pectinesterase,1QJV,A,mutant T272A,T,272,A
+pectinesterase,1QJV,A,mutant M306A,M,306,A
+protein-tyrosine-phosphatase,1PHR,A,mutant R53N,R,53,N
+protein-tyrosine-phosphatase,1PHR,A,mutant R64K,R,64,K
+protein-tyrosine-phosphatase,1PHR,A,mutant D48T,D,48,T
+protein-tyrosine-phosphatase,1PHR,A,mutant W49Y,W,49,Y
+protein-tyrosine-phosphatase,1PHR,A,mutant N50E,N,50,E
+protein-tyrosine-phosphatase,1PHR,A,mutant K73I,K,73,I
+amidase,2UXY,A,mutant T103I,T,103,I
+amidase,2UXY,A,mutant C91A,C,91,A
+arginine deiminase,2A9G,A,mutant E224A,E,224,A
+arginine deiminase,2A9G,A,mutant R185A,R,185,A
+arginine deiminase,2A9G,A,mutant R243A,R,243,A
+arginine deiminase,2A9G,A,mutant N160A,N,160,A
+arginine deiminase,2A9G,A,mutant R401A,R,401,A
+protein-tyrosine-phosphatase,1YTS,A,mutant R216A,R,216,A
+protein-tyrosine-phosphatase,1YTS,A,mutant R228A,R,228,A
+protein-tyrosine-phosphatase,1YTS,A,mutant R236A,R,236,A
+protein-tyrosine-phosphatase,1YTS,A,mutant R295A,R,295,A
+protein-tyrosine-phosphatase,1YTS,A,mutant R409A,R,409,A
+protein-tyrosine-phosphatase,1YTS,A,mutant R437A,R,437,A
+protein-tyrosine-phosphatase,1YTS,A,mutant R440K,R,440,K
+protein-tyrosine-phosphatase,1YTS,A,mutant Q446A,Q,446,A
+protein-tyrosine-phosphatase,1YTS,A,mutant Q450A,Q,450,A
+beta-lactamase,1G68,A,mutant R234K,R,234,K
+acetylcholinesterase,2HA5,A,mutant Y72N,Y,72,N
+acetylcholinesterase,2HA5,A,mutant D74N,D,74,N
+acetylcholinesterase,2HA5,A,mutant Y124Q,Y,124,Q
+acetylcholinesterase,2HA5,A,mutant W286R,W,286,R
+acetylcholinesterase,2HA5,A,mutant F295Y,F,295,Y
+acetylcholinesterase,2HA5,A,mutant F297Y,F,297,Y
+acetylcholinesterase,2HA5,A,mutant Y337A,Y,337,A
+acetylcholinesterase,2HA5,A,mutant F338G,F,338,G
+acetylcholinesterase,2HA5,A,mutant R296S,R,296,S
+acetylcholinesterase,2HA5,A,mutant V300G,V,300,G
+acetylcholinesterase,4PQE,A,mutant Y72A,Y,72,A
+acetylcholinesterase,4PQE,A,mutant D74N,D,74,N
+acetylcholinesterase,4PQE,A,mutant Y124A,Y,124,A
+acetylcholinesterase,4PQE,A,mutant E285A,E,285,A
+acetylcholinesterase,4PQE,A,mutant Y341A,Y,341,A
+acetylcholinesterase,4PQE,A,mutant F297A,F,297,A
+acetylcholinesterase,4PQE,A,mutant F338A,F,338,A
+acetylcholinesterase,4PQE,A,mutant E202A,E,202,A
+acetylcholinesterase,4PQE,A,mutant W286A,W,286,A
+acetylcholinesterase,4PQE,A,mutant W86A,W,86,A
+acetylcholinesterase,4PQE,A,mutant F295A,F,295,A
+acetylcholinesterase,4PQE,A,mutant Y337F,Y,337,F
+Carboxylic ester hydrolases,4KRX,A,mutant H103N,H,103,N
+Carboxylic ester hydrolases,4KRX,A,mutant E128Q,E,128,Q
+Carboxylic ester hydrolases,4KRX,A,mutant G163A,G,163,A
+Carboxylic ester hydrolases,4KRX,A,mutant D164A,D,164,A
+Carboxylic ester hydrolases,4KRX,A,mutant G167A,G,167,A
+Carboxylic ester hydrolases,4KRX,A,mutant D262A,D,262,A
+Carboxylic ester hydrolases,4KRX,A,mutant D266A,D,266,A
+"fructose-2,6-bisphosphate 2-phosphatase",1BIF,A,mutant T52A,T,52,A
+"fructose-2,6-bisphosphate 2-phosphatase",1BIF,A,mutant D128N,D,128,N
+"fructose-2,6-bisphosphate 2-phosphatase",1BIF,A,mutant T130A,T,130,A
+"fructose-2,6-bisphosphate 2-phosphatase",1BIF,A,mutant N73A,N,73,A
+"fructose-2,6-bisphosphate 2-phosphatase",1BIF,A,mutant Y197F,Y,197,F
+beta-lactamase,1ZNB,A,mutant H99N,H,99,N
+beta-lactamase,1ZNB,A,mutant C181S,C,181,S
+beta-lactamase,1ZNB,A,mutant D103N,D,103,N
+beta-lactamase,1ZNB,A,mutant C104R,C,104,R
+beta-lactamase,1ZNB,A,mutant K184R,K,184,R
+beta-lactamase,1ZNB,A,mutant N193D,N,193,D
+beta-lactamase,1X8G,A,mutant N116H,N,116,H
+beta-lactamase,1X8G,A,mutant N220G,N,220,G
+beta-lactamase,1X8G,A,mutant R121H,R,121,H
+aryldialkylphosphatase,1V04,A,mutant H115Q,H,115,Q
+aryldialkylphosphatase,1V04,A,mutant H134Q,H,134,Q
+dipeptidyl-peptidase IV,1PFQ,A,mutant Y547F,Y,547,F
+tryptophanase,5W1B,A,mutant H458A,H,458,A
+tryptophanase,5W1B,A,mutant D133A,D,133,A
+tryptophanase,5W1B,B,mutant Y72F,Y,72,F
+alcohol dehydrogenase,3SZA,A,mutant E209Q,E,209,Q
+In phosphorous-containing anhydrides,2GT4,A,mutant R37Q,R,37,Q
+In phosphorous-containing anhydrides,2GT4,A,mutant D22A,D,22,A
+In phosphorous-containing anhydrides,2GT4,A,mutant H124E,H,124,E
+In phosphorous-containing anhydrides,2GT4,A,mutant Y127F,Y,127,F
+In phosphorous-containing anhydrides,1RYA,A,mutant D22A,D,22,A
+In phosphorous-containing anhydrides,2GT4,A,mutant E64Q,E,64,Q
+In phosphorous-containing anhydrides,2GT4,A,mutant A69E,A,69,E
+In phosphorous-containing anhydrides,2GT4,A,mutant E60Q,E,60,Q
+In phosphorous-containing anhydrides,2GT4,A,mutant E70Q,E,70,Q
+In phosphorous-containing anhydrides,2GT4,A,mutant H88Q,H,88,Q
+In phosphorous-containing anhydrides,2GT4,A,mutant H124Q,H,124,Q
+In phosphorous-containing anhydrides,2GT4,A,mutant H102Q,H,102,Q
+In phosphorous-containing anhydrides,2GT4,A,mutant H142Q,H,142,Q
+In phosphorous-containing anhydrides,2GT4,A,mutant R52K,R,52,K
+In phosphorous-containing anhydrides,2GT4,A,mutant R65K,R,65,K
+In phosphorous-containing anhydrides,2GT4,A,mutant Y103F,Y,103,F
+insulysin,3P7L,A,mutant H112Q,H,112,Q
+insulysin,3P7L,A,mutant E111A,E,111,A
+subtilisin,5GL8,A,mutant I11V,I,11,V
+subtilisin,5GL8,A,mutant I30V,I,30,V
+subtilisin,5GL8,A,mutant G34D,G,34,D
+subtilisin,5GL8,A,mutant W106Y,W,106,Y
+subtilisin,5GL8,A,mutant W113Y,W,113,Y
+subtilisin,5GL8,A,mutant S33A,S,33,A
+subtilisin,5GL8,A,mutant D60A,D,60,A
+subtilisin,5GL8,A,mutant S62A,S,62,A
+subtilisin,5GL8,A,mutant T220A,T,220,A
+"xylan 1,4-beta-xylosidase",1UHV,A,mutant E160A,E,160,A
+beta-lactamase,1E25,A,mutant T104E,T,104,E
+beta-lactamase,1E25,A,mutant Q103AG,Q,103,G
+beta-lactamase,1E25,A,mutant N103BG,N,103,G
+beta-lactamase,1E25,A,mutant A164S,A,164,S
+beta-lactamase,1E25,A,mutant E166A,E,166,A
+beta-lactamase,1E25,A,mutant S238G,S,238,G
+beta-lactamase,1E25,A,mutant G240CE,G,240,E
+beta-glucosidase,1HXJ,A,mutant E186D,E,186,D
+beta-glucosidase,1HXJ,A,mutant E401Q,E,401,Q
+beta-glucosidase,1HXJ,A,mutant V199L,V,199,L
+beta-glucosidase,1HXJ,A,mutant D256N,D,256,N
+beta-glucosidase,1HXJ,A,mutant M258F,M,258,F
+beta-glucosidase,1HXJ,A,mutant F461S,F,461,S
+beta-glucosidase,1HXJ,A,mutant Y468F,Y,468,F
+beta-glucosidase,1HXJ,A,mutant F193V,F,193,V
+beta-glucosidase,1HXJ,A,mutant P372A,P,372,A
+bis(5'-adenosyl)-triphosphatase,4FIT,A,mutant H96G,H,96,G
+beta-lactamase,1SML,A,mutant W167F,W,167,F
+beta-lactamase,1SML,A,mutant W169F,W,169,F
+beta-lactamase,1SML,A,mutant D88C,D,88,C
+beta-lactamase,1SML,A,mutant S185A,S,185,A
+beta-lactamase,1SML,A,mutant Y191A,Y,191,A
+beta-lactamase,1SML,A,mutant N196L,N,196,L
+pancreatic ribonuclease,6ETK,A,mutant F46L,F,46,L
+beta-lactamase,1BTL,A,mutant W165S,W,165,S
+beta-lactamase,1BTL,A,mutant A237T,A,237,T
+beta-lactamase,1BTL,A,mutant E240C,E,240,C
+beta-lactamase,1BTL,A,mutant N132D,N,132,D
+beta-lactamase,1BTL,A,mutant D179N,D,179,N
+beta-lactamase,1BTL,A,mutant R164S,R,164,S
+beta-lactamase,1BTL,A,mutant Y105W,Y,105,W
+Phosphoric diester hydrolases,5FC1,A,mutant Y257A,Y,257,A
+Phosphoric diester hydrolases,5FC1,A,mutant H149A,H,149,A
+Phosphoric diester hydrolases,5FC1,A,mutant H111A,H,111,A
+"arabinan endo-1,5-alpha-L-arabinanase",1UV4,A,mutant H13A,H,13,A
+"arabinan endo-1,5-alpha-L-arabinanase",1UV4,A,mutant F94A,F,94,A
+"arabinan endo-1,5-alpha-L-arabinanase",1UV4,A,mutant F151A,F,151,A
+"arabinan endo-1,5-alpha-L-arabinanase",1UV4,A,mutant W152A,W,152,A
+protein-tyrosine-phosphatase,5XW4,A,mutant D50N,D,50,N
+protein-tyrosine-phosphatase,5XW4,A,mutant D129N,D,129,N
+protein-tyrosine-phosphatase,5XW4,A,mutant E168Q,E,168,Q
+protein-tyrosine-phosphatase,5XW4,A,mutant E171Q,E,171,Q
+protein-tyrosine-phosphatase,5XW4,A,mutant D177N,D,177,N
+protein-tyrosine-phosphatase,5XW4,A,mutant E308Q,E,308,Q
+protein-tyrosine-phosphatase,5XW4,A,mutant D143N,D,143,N
+protein-tyrosine-phosphatase,5XW4,A,mutant E174Q,E,174,Q
+protein-tyrosine-phosphatase,5XW4,A,mutant D253A,D,253,A
+bacterial leucyl aminopeptidase,2DEA,A,mutant E151Q,E,151,Q
+RNA helicase,5Z3G,Y,mutant K389A,K,389,A
+RNA helicase,5Z3G,Y,mutant S228A,S,228,A
+RNA helicase,5Z3G,Y,mutant T230A,T,230,A
+RNA helicase,5Z3G,Y,mutant H375E,H,375,E
+hydroxyacylglutathione hydrolase,1QH3,A,mutant Y175F,Y,175,F
+beta-glucosidase,2E3Z,A,mutant V173C,V,173,C
+beta-glucosidase,2E3Z,A,mutant M177L,M,177,L
+beta-glucosidase,2E3Z,A,mutant D229N,D,229,N
+beta-glucosidase,2E3Z,A,mutant H231D,H,231,D
+beta-glucosidase,2E3Z,A,mutant K253A,K,253,A
+acid phosphatase,1Z5G,A,mutant K154N,K,154,N
+acid phosphatase,1Z5G,A,mutant D173N,D,173,N
+beta-glucosidase,2RGL,A,mutant I179V,I,179,V
+beta-glucosidase,2RGL,A,mutant N245V,N,245,V
+beta-glucosidase,2RGL,A,mutant L442R,L,442,R
+beta-glucosidase,2RGL,A,mutant N190H,N,190,H
+alpha-galactosidase,3A24,A,mutant D415N,D,415,N
+alpha-galactosidase,3A24,A,mutant E470Q,E,470,Q
+thiamine-triphosphatase,5A64 ,A,mutant E81A,E,81,A
+thiamine-triphosphatase,5A64 ,A,mutant K11A,K,11,A
+thiamine-triphosphatase,5A64 ,A,mutant Y79A,Y,79,A
+thiamine-triphosphatase,5A64 ,A,mutant D37A,D,37,A
+thiamine-triphosphatase,5A64 ,A,mutant W53A,W,53,A
+thiamine-triphosphatase,5A64 ,A,mutant K65A,K,65,A
+thiamine-triphosphatase,5A64 ,A,mutant K193A,K,193,A
+thiamine-triphosphatase,5A64 ,A,mutant Y39A,Y,39,A
+thiamine-triphosphatase,5A64 ,A,mutant D147A,D,147,A
+6-oxocamphor hydrolase,1O8U,A,mutant H45A,H,45,A
+6-oxocamphor hydrolase,1O8U,A,mutant H122A,H,122,A
+6-oxocamphor hydrolase,1O8U,A,mutant H145A,H,145,A
+6-oxocamphor hydrolase,1O8U,A,mutant D154N,D,154,N
+6-oxocamphor hydrolase,1O8U,A,mutant E244Q,E,244,Q
+"glucan 1,6-alpha-glucosidase",2ZIC,A,mutant W238A,W,238,A
+beta-glucosidase,3AIU,A,mutant F198A,F,198,A
+beta-glucosidase,3AIU,A,mutant Y378A,Y,378,A
+beta-glucosidase,3AIV,A,mutant F198A,F,198,A
+beta-glucosidase,3AIV,A,mutant Y378A,Y,378,A
+beta-glucosidase,3AIV,A,mutant G464S,G,464,S
+beta-glucosidase,3AIV,A,mutant S465L,S,465,L
+beta-glucosidase,3AIU,A,mutant G464F,G,464,F
+beta-glucosidase,3AIU,A,mutant S465L,S,465,L
+beta-glucosidase,3AIU,A,mutant F471Y,F,471,Y
+beta-glucosidase,2JFE,X,mutant Q307N,Q,307,N
+beta-glucosidase,2JFE,X,mutant M172L,M,172,L
+beta-glucosidase,2JFE,X,mutant W345A,W,345,A
+beta-glucosidase,2JFE,X,mutant Y308F,Y,308,F
+beta-glucosidase,2JFE,X,mutant V168Y,V,168,Y
+acyl-CoA hydrolase,3F5O,A,mutant D65N,D,65,N
+acyl-CoA hydrolase,3F5O,A,mutant H56A,H,56,A
+acyl-CoA hydrolase,3F5O,A,mutant S83A,S,83,A
+acyl-CoA hydrolase,3F5O,A,mutant T69A,T,69,A
+acyl-CoA hydrolase,3F5O,A,mutant H134A,H,134,A
+acyl-CoA hydrolase,3F5O,A,mutant N50A,N,50,A
+acyl-CoA hydrolase,3F5O,A,mutant K136A,K,136,A
+acyl-CoA hydrolase,3F5O,A,mutant H137A,H,137,A

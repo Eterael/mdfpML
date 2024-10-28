@@ -1,0 +1,48 @@
+Invalid SMILES for Compound_Name
+Failed to optimize structure for Ampicillin
+Failed to optimize structure for Ampicillin
+Failed to optimize structure for GDP-alpha-D-Glucose
+Failed to optimize structure for Nitrocefin
+Failed to optimize structure for DIBOA glucoside
+Failed to optimize structure for Benzylpenicillin
+Failed to optimize structure for Penicillin G
+Failed to optimize structure for P1,P3-Bis(5'-adenosyl)-triphosphate
+Failed to optimize structure for Cefoxitin
+Failed to optimize structure for Ceftazidime
+Failed to optimize structure for Ceftazidime
+Failed to optimize structure for 3,4-Dinitrophenyl-beta-D-galactopyranoside
+Failed to optimize structure for ATP
+Failed to optimize structure for Met-Gly-Met-Met
+Failed to optimize structure for Maltotriose
+Failed to optimize structure for Thiamine triphosphate
+Failed to optimize structure for Isomaltose
+Failed to optimize structure for Arabinotetraose
+Failed to optimize structure for Cefotaxime
+Failed to optimize structure for Cephalothin
+Failed to optimize structure for D-Fructose 2,6-bisphosphate
+Failed to optimize structure for Nitrocefin
+Failed to optimize structure for Succinyl-Ala-Ala-Pro-Phe-p-nitroanilide
+Failed to optimize structure for 2'-(4-Methylumbelliferyl)-alpha-D-N-acetylneuraminic acid
+Failed to optimize structure for Nitrocefin
+Failed to optimize structure for 3-Hydroxyphenylacetyl-CoA
+Failed to optimize structure for Penicillin G
+Failed to optimize structure for Cephaloridine
+Invalid SMILES for Pectin
+Failed to optimize structure for Biapenem
+Failed to optimize structure for Cephalothin
+Failed to optimize structure for Penicillin G
+Failed to optimize structure for Cellotriose
+Failed to optimize structure for Propanoyl-CoA
+Failed to optimize structure for ATP
+Failed to optimize structure for Penicillin G
+Failed to optimize structure for Penicillin G
+Failed to optimize structure for Nitrocefin
+Failed to optimize structure for Gly-Pro-4-Nitroanilide
+Failed to optimize structure for Cephaloridine
+Failed to optimize structure for Acetyl-CoA
+Failed to optimize structure for (R)-S-Lactoylglutathione
+Failed to optimize structure for DIMBOA glucoside
+Failed to optimize structure for Penicillin G
+Failed to optimize structure for Paraoxon
+Failed to optimize structure for GDP-alpha-D-mannose
+Failed to optimize structure for Succinyl-Ala-Ala-Pro-Phe-p-nitroanilide

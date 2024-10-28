@@ -1,0 +1,99 @@
+ID	Compound_Name	SMILES
+3AIU	p-Nitrophenyl-beta-D-glucoside	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O
+1YTS	4-Nitrophenyl phosphate	C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O
+2G2U	Ampicillin	CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C
+1BTL	Ampicillin	CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C
+1PHR	Phosphotyrosine	NC(Cc1ccc(cc1)OP(O)(O)=O)C(O)=O
+1RYA	GDP-alpha-D-Glucose	C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OC4C(C(C(C(O4)CO)O)O)O)O)O)N=C(NC2=O)N
+1SML	Nitrocefin	c1cc(sc1)CC(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)/C=C/c4ccc(cc4[N+](=O)[O-])[N+](=O)[O-])C(=O)O
+3AIU	DIBOA glucoside	C1=CC=C2C(=C1)N(C(=O)C(O2)OC3C(C(C(C(O3)CO)O)O)O)O
+1BTL	Benzylpenicillin	CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+5W1B	S-Ethyl-L-cysteine	CCSCC(C(=O)O)N
+1B12	Peptide	[*]C(N)C(=O)NC([*])C(O)=O
+3P7L	2-Aminobenzoyl-GGFLRKHGQ-N-(2,4-dinitrophenyl)ethylenediamine	C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])NCCN
+2UXY	Acetamide	CC(=O)N
+1ZNB	Penicillin G	CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+3SZA	4-Nitrophenyl acetate	CC(=O)OC1=CC=C(C=C1)[N+](=O)[O-]
+1FUG	Triphosphate	[O-]P(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-]
+2HA5	Acetylthiocholine	CC(=O)SCC[N+](C)(C)C
+4FIT	P1,P3-Bis(5'-adenosyl)-triphosphate	Nc6ncnc1c6(ncn1C5OC(COP(O)(=O)OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2(O))n4cnc3c(N)ncnc34)C(O)C5(O))
+1SML	Cefoxitin	COC1(C2N(C1=O)C(=C(CS2)COC(=O)N)C(=O)O)NC(=O)CC3=CC=CS3
+2JFE	4-Nitrophenyl-beta-D-galactopyranoside	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O
+1E25	Ceftazidime	[H]C34(C(NC(=O)C(=NOC(C)(C)C(O)=O)c1csc(N)n1)C(=O)N4(C(C(=O)[O-])=C(C[n+]2ccccc2)CS3))
+1XX2	Ceftazidime	[H]C34(C(NC(=O)C(=NOC(C)(C)C(O)=O)c1csc(N)n1)C(=O)N4(C(C(=O)[O-])=C(C[n+]2ccccc2)CS3))
+1DP0	3,4-Dinitrophenyl-beta-D-galactopyranoside	c1cc(c(cc1O[C@@H]2[C@H]([C@H]([C@H](O[C@H]2[O-])CO)O)O)[N+](=O)[O-])[N+](=O)[O-]
+1PNK	2-Nitro-5-[(Phenylacetyl)amino]benzoic acid	C1=CC=C(C=C1)CC(=O)NC2=CC(=C(C=C2)[N+](=O)[O-])C(=O)O
+5Z3G	ATP	Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
+2JFE	p-Nitrophenyl-beta-D-fucopyranoside	C[C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)OC2=CC=C(C=C2)[N+](=O)[O-])O)O)O
+1SWW	Phosphonoacetaldehyde	[H]C(=O)CP(O)(O)=O
+3IFA	D-Fructose 1,6-bisphosphate	
+4PQE	Acetylthiocholine	CC(=O)SCC[N+](C)(C)C
+4PQE	Propionylthiocholine	CCC(=O)SCC[N+](C)(C)C
+2D73	p-Nitrophenyl-alpha-D-glucoside	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O
+1MAT	Met-Gly-Met-Met	CSCCC(C(=O)NCC(=O)NC(CCSC)C(=O)NC(CCSC)C(=O)O)N
+1HNY	Maltotriose	OCC3OC(OC1C(O)C(O)C(OC1(CO))OC2C(O)C(O)C(O)OC2(CO))C(O)C(O)C3(O)
+4KRX	p-Nitrophenyl butyrate	CCCC(=O)OC1=CC=C(C=C1)[N+](=O)[O-]
+2RGL	Cellobiose	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O
+5A64 	Thiamine triphosphate	CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)OP(=O)(O)[O-]
+2ZIC	Isomaltose	OCC2OC(OCC1OC(O)C(O)C(O)C1(O))C(O)C(O)C2(O)
+2DEA	L-Leucine-p-nitroanilide	CC(C)CC(C(=O)NC1=CC=C(C=C1)[N+](=O)[O-])N
+5XW4	4-Nitrophenyl phosphate	C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O
+1JYV	2-Nitrophenyl-beta-D-galactopyranoside	C1=CC=C(C(=C1)[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O
+4PQE	4-Nitrophenyl acetate	CC(=O)OC1=CC=C(C=C1)[N+](=O)[O-]
+1DP0	4-Nitrophenyl-alpha-L-arabinopyranoside	C1[C@@H]([C@@H]([C@H]([C@@H](O1)OC2=CC=C(C=C2)[N+](=O)[O-])O)O)O
+3DYN	3',5'-Cyclic AMP	C1C2C(C(C(O2)N3C=NC4=C(N=CN=C43)N)O)OP(=O)(O1)O
+2A9G	L-Arginine	NC(=N)NCCCC(N)C(O)=O
+1UV4	Arabinotetraose	C(C1C(C(C(O1)OCC2C(C(C(O2)OCC3C(C(C(O3)OCC4C(C(C(O4)O)O)O)O)O)O)O)O)O)O
+1Z5G	4-Nitrophenyl phosphate	C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O
+2E3Z	Cellobiose	C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O
+1BTL	Cefotaxime	[H]C34(C(NC(=O)C(=NOC(C)(C)C(O)=O)c1csc(N)n1)C(=O)N4(C(C(=O)[O-])=C(C[n+]2ccccc2)CS3))
+1BTL	Cephalothin	[H]C23(C(NC(=O)Cc1cccs1)C(=O)N3(C(C(O)=O)=C(COC(C)=O)CS2))
+1BIF	D-Fructose 2,6-bisphosphate	C(C1C(C(C(O1)(CO)OP(=O)(O)O)O)O)OP(=O)(O)O
+1HXJ	p-Nitrophenyl-beta-D-glucoside	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O
+1PNK	2-Phenylacetamide	NC(=O)Cc1ccccc1
+1SWW	2-Phosphonoacetaldehyde	[H]C(=O)CP(O)(O)=O
+1HZY	Paraoxon	CCOP(=O)(OCC)Oc1ccc(cc1)[N+](=O)[O-]
+2G2U	Nitrocefin	c1cc(sc1)CC(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)/C=C/c4ccc(cc4[N+](=O)[O-])[N+](=O)[O-])C(=O)O
+6ETK	2',3'-Cyclic CMP	NC=1C=CN(C(=O)N=1)C3OC(CO)C2OP(O)(=O)OC23
+1UHV	p-Nitrophenyl-beta-D-xylopyranoside	C1C(C(C(C(O1)OC2=CC=C(C=C2)[N+](=O)[O-])O)O)O
+1FBH	D-Fructose 1,6-bisphosphate	OC1C(COP(O)(O)=O)OC(O)(COP(O)(O)=O)C1(O)
+2ST1	Succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	C[C@@H](C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc2ccccc2)C(=O)Nc3ccc(cc3)[N+](=O)[O-])NC(=O)CCC(=O)O
+1B9V	2'-(4-Methylumbelliferyl)-alpha-D-N-acetylneuraminic acid	CC1=CC(=O)OC2=C1C=CC(=C2)OC3(CC(C(C(O3)C(C(CO)O)O)NC(=O)C)O)C(=O)O
+1BC2	Nitrocefin	c1cc(sc1)CC(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)/C=C/c4ccc(cc4[N+](=O)[O-])[N+](=O)[O-])C(=O)O
+3F5O	3-Hydroxyphenylacetyl-CoA	CC(C)(COP(=O)([O-])OP(=O)([O-])OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)([O-])[O-])C(C(=O)NCCC(=O)NCCSC(=O)CC4=CC(=CC=C4)O)O
+1FTA	D-Fructose 1,6-bisphosphate	
+1O8U	6-Oxocamphor	CC1(C2CC(=O)C1(C(=O)C2)C)C
+1BTL	Penicillin G	CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+1E25	Cephaloridine	[H]C34(C(NC(=O)Cc1cccs1)C(=O)N4(C(C(=O)O)=C(C[n+]2ccccc2)CS3))
+1HXJ	4-Methylumbelliferyl-beta-D-glucoside	CC1=CC(=O)OC2=C1C=CC(=C2)OC3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
+1JYV	o-Nitrophenyl-beta-D-galactopyranoside	C1=CC=C(C(=C1)[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O
+1QJV	Pectin	
+1SML	Biapenem	[H]C2(C(C)O)(C(=O)N1C(C(=O)[O-])=C(C(C)C12([H]))SC3Cn4cnc[n+]4(C3))
+2G2U	Cephalothin	[H]C23(C(NC(=O)Cc1cccs1)C(=O)N3(C(C(O)=O)=C(COC(C)=O)CS2))
+1BC2	Penicillin G	CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+2RGL	Cellotriose	OCC3OC(OC1C(O)C(O)C(OC1(CO))OC2C(O)C(O)C(O)OC2(CO))C(O)C(O)C3(O)
+1A59	Propanoyl-CoA	CCC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O
+1A59	Oxaloacetate	OC(=O)CC(=O)C(O)=O
+5FC1	ATP	Nc3ncnc1c3(ncn1C2OC(COP(O)(=O)OP(O)(=O)OP(O)(O)=O)C(O)C2(O))
+3A24	p-Nitrophenyl-alpha-D-galactoside	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O
+2JFE	4-Nitrophenyl-alpha-L-arabinopyranoside	C1[C@@H]([C@@H]([C@H]([C@@H](O1)OC2=CC=C(C=C2)[N+](=O)[O-])O)O)O
+1GM7	Penicillin G	CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+1G68	Penicillin G	CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+1X8G	Nitrocefin	c1cc(sc1)CC(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)/C=C/c4ccc(cc4[N+](=O)[O-])[N+](=O)[O-])C(=O)O
+1MJ5	1,2-Dibromoethane	C(CBr)Br
+1PFQ	Gly-Pro-4-Nitroanilide	C1C[C@H](N(C1)C(=O)CNC(=O)OCC2=CC=CC=C2)C(=O)NC3=CC=C(C=C3)[N+](=O)[O-]
+1ZNB	Cephaloridine	[H]C34(C(NC(=O)Cc1cccs1)C(=O)N4(C(C(=O)O)=C(C[n+]2ccccc2)CS3))
+1A59	Acetyl-CoA	CC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O
+1JYW	4-Nitrophenyl-beta-D-galactopyranoside	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O
+1QH3	(R)-S-Lactoylglutathione	CC(O)C(=O)SCC(NC(=O)CCC(N)C(O)=O)C(=O)NCC(O)=O
+1RLA	L-Arginine	NC(=N)NCCCC(N)C(O)=O
+3AIV	DIMBOA glucoside	COc1ccc3c(c1)OC(OC2OC(CO)C(O)C(O)C2(O))C(=O)N3(O)
+2BLS	Penicillin G	CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+1PHR	4-Nitrophenyl phosphate	C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O
+2JFE	p-Nitrophenyl-beta-D-glucoside	C1=CC(=CC=C1[N+](=O)[O-])OC2C(C(C(C(O2)CO)O)O)O
+1V04	Paraoxon	CCOP(=O)(OCC)Oc1ccc(cc1)[N+](=O)[O-]
+3TG0	4-Nitrophenyl phosphate	C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O
+2GT4	GDP-alpha-D-mannose	c1nc2c(=O)[nH]c(nc2n1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)N
+5GL8	Succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	C[C@@H](C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc2ccccc2)C(=O)Nc3ccc(cc3)[N+](=O)[O-])NC(=O)CCC(=O)O
+5XW4	6,8-Difluoro-4-methylumbelliferyl phosphate	C1(=C(C(=CC2=C1OC(C=C2C)=O)F)OP(O)(O)=O)F
+1EYK	D-Fructose 1,6-bisphosphate	OC1C(COP(O)(O)=O)OC(O)(COP(O)(O)=O)C1(O)
